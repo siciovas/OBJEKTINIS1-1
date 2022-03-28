@@ -1,0 +1,7 @@
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\obj\Debug\L1. U22.csprojAssemblyReference.cache
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\obj\Debug\L1. U22.csproj.CoreCompileInputs.cache
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\bin\Debug\L1.U22.exe.config
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\bin\Debug\L1.U22.exe
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\bin\Debug\L1.U22.pdb
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\obj\Debug\L1.U22.exe
+F:\Universitetas\Objektinis programavimas\L1. Duomenų klasė\L1. U1-22\L1. U22\obj\Debug\L1.U22.pdb
